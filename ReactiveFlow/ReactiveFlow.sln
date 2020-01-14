@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveFlow", "ReactiveFlow\ReactiveFlow.csproj", "{45E2604F-253B-41A7-A985-805B0706256C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45E2604F-253B-41A7-A985-805B0706256C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E2604F-253B-41A7-A985-805B0706256C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E2604F-253B-41A7-A985-805B0706256C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E2604F-253B-41A7-A985-805B0706256C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {508F9CB4-F8F2-4A64-86C5-F68AF642490B}
+	EndGlobalSection
+EndGlobal
